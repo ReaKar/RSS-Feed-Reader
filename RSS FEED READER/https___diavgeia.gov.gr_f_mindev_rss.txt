@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>Διαύγεια RSS - ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ</title>
+    <link>http://diavgeia.gov.gr/luminapi/api/f/mindev/rss</link>
+    <description>Αποφάσεις και πράξεις στο Διαδίκτυο, μέσω του προγράμματος Δι@ύγεια</description>
+    <lastBuildDate>Thu, 23 Nov 2017 01:36:48 GMT</lastBuildDate>
+    <item>
+      <title>ΕΚΚΑΘΑΡΙΣΗ - ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ ΕΞΟΔΩΝ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ</title>
+      <link>https://diavgeia.gov.gr/decision/view/7%CE%931%CE%9B465%CE%A7%CE%998-7%CE%9F6</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; ΕΚΚΑΘΑΡΙΣΗ - ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ ΕΞΟΔΩΝ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 15:59:12&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; 7Γ1Λ465ΧΙ8-7Ο6&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/7%CE%931%CE%9B465%CE%A7%CE%998-7%CE%9F6</guid>
+    </item>
+    <item>
+      <title>Κατακύρωση του αποτελέσματος, που αφορά το συνοπτικό διαγωνισμό με αρ. διακήρυξης
+110587/12.10.2017 για την προμήθεια σαράντα πέντε χιλιάδων (45.000) λίτρων πετρελαίου θέρμανσης
+με σκοπό την κάλυψη των αναγκών του Υπουργείου Οικονομίας &amp; Ανάπτυξης (κτίρια επί των οδών
+Νίκης 5 – 7 &amp; Κορνάρου 1, Αθήνα) για τη χειμερινή περίοδο 2017 – 2018</title>
+      <link>https://diavgeia.gov.gr/decision/view/%CE%A99%CE%976465%CE%A7%CE%998-1%CE%A5%CE%94</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; Κατακύρωση του αποτελέσματος, που αφορά το συνοπτικό διαγωνισμό με αρ. διακήρυξης
+110587/12.10.2017 για την προμήθεια σαράντα πέντε χιλιάδων (45.000) λίτρων πετρελαίου θέρμανσης
+με σκοπό την κάλυψη των αναγκών του Υπουργείου Οικονομίας &amp; Ανάπτυξης (κτίρια επί των οδών
+Νίκης 5 – 7 &amp; Κορνάρου 1, Αθήνα) για τη χειμερινή περίοδο 2017 – 2018&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 15:47:54&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; Ω9Η6465ΧΙ8-1ΥΔ&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/%CE%A99%CE%976465%CE%A7%CE%998-1%CE%A5%CE%94</guid>
+    </item>
+    <item>
+      <title>ΕΚΚΑΘΑΡΙΣΗ - ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ ΕΞΟΔΩΝ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ</title>
+      <link>https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%95%CE%9C465%CE%A7%CE%998-%CE%A6%CE%A81</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; ΕΚΚΑΘΑΡΙΣΗ - ΕΝΤΟΛΗ ΠΛΗΡΩΜΗΣ ΕΞΟΔΩΝ ΜΕΤΑΚΙΝΗΣΗΣ ΕΚΤΟΣ ΕΔΡΑΣ&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 15:35:44&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; ΩΡΕΜ465ΧΙ8-ΦΨ1&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/%CE%A9%CE%A1%CE%95%CE%9C465%CE%A7%CE%998-%CE%A6%CE%A81</guid>
+    </item>
+    <item>
+      <title>3η Τροποποίηση της πρόσκλησης υποβολής προτάσεων χρηματοδοτικής ενίσχυσης επιχειρήσεων για ερευνητικά έργα στους τομείς της αγροδιατροφής, δημιουργικής βιομηχανίας, ΤΠΕ, υγείας και βιοτεχνολογίας στο πλαίσιο του Επιχειρησιακού Προγράμματος "Ήπειρος 2014-2020"</title>
+      <link>https://diavgeia.gov.gr/decision/view/%CE%A8%CE%976%CE%A4465%CE%A7%CE%998-%CE%99%CE%9C%CE%98</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; 3η Τροποποίηση της πρόσκλησης υποβολής προτάσεων χρηματοδοτικής ενίσχυσης επιχειρήσεων για ερευνητικά έργα στους τομείς της αγροδιατροφής, δημιουργικής βιομηχανίας, ΤΠΕ, υγείας και βιοτεχνολογίας στο πλαίσιο του Επιχειρησιακού Προγράμματος "Ήπειρος 2014-2020"&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 15:19:20&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; ΨΗ6Τ465ΧΙ8-ΙΜΘ&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/%CE%A8%CE%976%CE%A4465%CE%A7%CE%998-%CE%99%CE%9C%CE%98</guid>
+    </item>
+    <item>
+      <title>Τροποποίηση της με Α.Π. 3139/862/Α2/13.06.2016 Απόφασης Συγκρότησης Επιτροπής Αξιολόγησης, όπως ισχύει, για τη Δράση «Ενίσχυση της Αυτοαπασχόλησης Πτυχιούχων Τριτοβάθμιας Εκπαίδευσης» του Ε.Π. «Ανταγωνιστικότητα, Επιχειρηματικότητα και Καινοτομία (ΕΠΑνΕΚ)», ΕΣΠΑ 2014 – 2020.</title>
+      <link>https://diavgeia.gov.gr/decision/view/6%CE%97%CE%925465%CE%A7%CE%998-9%CE%92%CE%92</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; Τροποποίηση της με Α.Π. 3139/862/Α2/13.06.2016 Απόφασης Συγκρότησης Επιτροπής Αξιολόγησης, όπως ισχύει, για τη Δράση «Ενίσχυση της Αυτοαπασχόλησης Πτυχιούχων Τριτοβάθμιας Εκπαίδευσης» του Ε.Π. «Ανταγωνιστικότητα, Επιχειρηματικότητα και Καινοτομία (ΕΠΑνΕΚ)», ΕΣΠΑ 2014 – 2020.&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 15:14:15&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; 6ΗΒ5465ΧΙ8-9ΒΒ&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/6%CE%97%CE%925465%CE%A7%CE%998-9%CE%92%CE%92</guid>
+    </item>
+    <item>
+      <title>ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΠΡΟΜΗΘΕΙΑΣ ΑΕΡΟΠΟΡΙΚΩΝ ΕΙΣΙΤΗΡΙΩΝ ΚΑΙ ΠΑΡΟΧΗΣ ΔΙΑΜΟΝΗΣ</title>
+      <link>https://diavgeia.gov.gr/decision/view/70%CE%9C%CE%A7465%CE%A7%CE%998-%CE%9F%CE%A4%CE%A5</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΠΡΟΜΗΘΕΙΑΣ ΑΕΡΟΠΟΡΙΚΩΝ ΕΙΣΙΤΗΡΙΩΝ ΚΑΙ ΠΑΡΟΧΗΣ ΔΙΑΜΟΝΗΣ&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 14:59:22&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; 70ΜΧ465ΧΙ8-ΟΤΥ&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/70%CE%9C%CE%A7465%CE%A7%CE%998-%CE%9F%CE%A4%CE%A5</guid>
+    </item>
+    <item>
+      <title>ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΠΡΟΜΗΘΕΙΑΣ ΑΕΡΟΠΟΡΙΚΩΝ ΕΙΣΙΤΗΡΙΩΝ</title>
+      <link>https://diavgeia.gov.gr/decision/view/7%CE%94%CE%9E%CE%94465%CE%A7%CE%998-%CE%91%CE%A8%CE%93</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ ΠΡΟΜΗΘΕΙΑΣ ΑΕΡΟΠΟΡΙΚΩΝ ΕΙΣΙΤΗΡΙΩΝ&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 14:57:04&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; 7ΔΞΔ465ΧΙ8-ΑΨΓ&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/7%CE%94%CE%9E%CE%94465%CE%A7%CE%998-%CE%91%CE%A8%CE%93</guid>
+    </item>
+    <item>
+      <title>Να καταβάλετε, όπως αναλυτικά περιγράφεται στους δικαιούχους της συνημμένης κατάστασης, το συνολικό ποσό
+    των 3.439,76 € 
+    Ολογράφως : Τρεις χιλιάδες τετρακόσια τριάντα εννέα ευρώ και εβδομήκοντα έξι λεπτά του ευρώ</title>
+      <link>https://diavgeia.gov.gr/decision/view/%CE%A8062465%CE%A7%CE%998-%CE%94%CE%93%CE%9F</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; Να καταβάλετε, όπως αναλυτικά περιγράφεται στους δικαιούχους της συνημμένης κατάστασης, το συνολικό ποσό
+    των 3.439,76 € 
+    Ολογράφως : Τρεις χιλιάδες τετρακόσια τριάντα εννέα ευρώ και εβδομήκοντα έξι λεπτά του ευρώ&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 14:55:39&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; Ψ062465ΧΙ8-ΔΓΟ&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/%CE%A8062465%CE%A7%CE%998-%CE%94%CE%93%CE%9F</guid>
+    </item>
+    <item>
+      <title>ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ</title>
+      <link>https://diavgeia.gov.gr/decision/view/6%CE%98%CE%98%CE%9A465%CE%A7%CE%998-%CE%A8%CE%9D%CE%93</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; ΑΠΟΦΑΣΗ ΑΝΑΘΕΣΗΣ&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 14:33:47&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; 6ΘΘΚ465ΧΙ8-ΨΝΓ&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/6%CE%98%CE%98%CE%9A465%CE%A7%CE%998-%CE%A8%CE%9D%CE%93</guid>
+    </item>
+    <item>
+      <title>ΠΡΟΕΓΚΡΙΣΗ ΣΑ Ε055</title>
+      <link>https://diavgeia.gov.gr/decision/view/72%CE%A3%CE%A3465%CE%A7%CE%998-0%CE%9A2</link>
+      <description>&lt;strong&gt;Θέμα:&lt;/strong&gt; ΠΡΟΕΓΚΡΙΣΗ ΣΑ Ε055&lt;br /&gt;&lt;strong&gt;Ημ/νια:&lt;/strong&gt; 22/11/2017 14:29:13&lt;br /&gt;&lt;strong&gt;Φορέας:&lt;/strong&gt; ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΑΣ ΚΑΙ ΑΝΑΠΤΥΞΗΣ&lt;br /&gt;&lt;strong&gt;ΑΔΑ:&lt;/strong&gt; 72ΣΣ465ΧΙ8-0Κ2&lt;br /&gt;</description>
+      <author>no-reply@info.diavgeia.gov.gr (No Reply)</author>
+      <guid>https://diavgeia.gov.gr/decision/view/72%CE%A3%CE%A3465%CE%A7%CE%998-0%CE%9A2</guid>
+    </item>
+  </channel>
+</rss>
+
